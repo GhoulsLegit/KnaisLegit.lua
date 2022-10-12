@@ -1,0 +1,7 @@
+loadstring(game:HttpGet("hhttps://raw.githubusercontent.com/streetmain/main.luaV3/main/maintoeasykidurason"))()
+DaHoodSettings.Prediction = 0.135
+Aiming.TargetPart = {"Head", "HumanoidRootPart", "RightFoot"}
+Aiming.FOV = 40
+Aiming.FOVSides = 25
+Aiming.HitChance = 110
+Aiming.ShowFOV = false
